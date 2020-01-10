@@ -10,6 +10,13 @@ h1 {
     text-align: center;
 }
 
+
+/* Heading H2 */
+h2 {
+    color: green;
+    text-align: center;
+}
+
 /* Horizontal Rule */
 hr {
     border-color: black;
