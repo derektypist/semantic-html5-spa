@@ -21,3 +21,9 @@ h2 {
 hr {
     border-color: black;
 }
+
+/* Computing */
+.screenshots {
+    display: block;
+    margin: auto;
+}
