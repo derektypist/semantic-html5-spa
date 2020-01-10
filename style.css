@@ -9,3 +9,8 @@ h1 {
     color: blue;
     text-align: center;
 }
+
+/* Horizontal Rule */
+hr {
+    border-color: black;
+}
