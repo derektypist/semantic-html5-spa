@@ -1,4 +1,11 @@
-/* body */
+/* Body */
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
+    padding-top: 150px;
+}
+
+/* Heading H1 */
+h1 {
+    color: blue;
+    text-align: center;
 }
