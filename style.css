@@ -22,6 +22,12 @@ hr {
     border-color: black;
 }
 
+/* Home */
+
+#home-start {
+    padding: 80px;
+}
+
 /* Computing */
 
 #computing-start {
