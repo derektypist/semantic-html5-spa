@@ -1,7 +1,7 @@
 /* Body */
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
-    padding-top: 150px;
+    padding-top: 80px;
 }
 
 /* Heading H1 */
@@ -25,13 +25,13 @@ hr {
 /* Home */
 
 #home-start {
-    padding: 80px;
+    padding-top: 80px;
 }
 
 /* Computing */
 
 #computing-start {
-    padding: 80px;
+    padding-top: 80px;
 }
 
 
@@ -50,6 +50,26 @@ hr {
 .screenshots-caption {
     position: relative;
     top: 15px;
+}
+
+/* Music Section */
+
+#music {
+    height: 100vh;
+}
+
+#music-home {
+    padding-top: 80px;
+}
+
+.music-article {
+    padding: 10px;
+}
+
+#music-caption {
+    position: relative;
+    top: 15px;
+    text-align: center;
 }
 
 /* Table */
