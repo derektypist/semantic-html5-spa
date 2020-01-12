@@ -60,8 +60,15 @@ Remote set up at
     
 Any changes use the git push command.
 
+## Credits
 
+### Content
 
+All information in this project was written by me.
+
+### Media
+
+All photos and screenshots were supplied by myself.
 
 
 
