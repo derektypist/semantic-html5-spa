@@ -24,6 +24,10 @@ hr {
 
 /* Home */
 
+#home {
+    height: 100vh;
+}
+
 #home-start {
     padding-top: 80px;
 }
