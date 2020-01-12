@@ -85,3 +85,12 @@ th {
 .holiday-descriptions {
     text-align: center;
 }
+
+.holiday-tile {
+    border: 4px solid blue;
+}
+
+.holiday-tile:hover {
+    border: 4px solid orange;
+}
+
