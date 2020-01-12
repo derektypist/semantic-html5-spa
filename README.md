@@ -7,6 +7,9 @@ It uses the nav, header, section, article, figure, figcaption, aside and footer 
 
 The sections are divided into home, computing, music and holidays.  The organising principle is interests.
 
+When the user hovers over the navigation links (e.g. computing) the background color
+changes to sea green.
+
 In the home section, users can go to the footer section to find out who the author is.
 
 As a user, I want to see who created this project.
@@ -33,7 +36,8 @@ the border to be orange.
 
 I also want a brief description of the image (e.g. Benidorm).
 
-As a user, I want to see a screentip (e.g. Cambridge Python User Group) when I hover over a link.
+As a user, I want to see a screentip (e.g. Cambridge Python User Group) when I hover over a link other than
+the navigation menu.
 
 ## Features
 
