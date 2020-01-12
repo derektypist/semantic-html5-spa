@@ -50,6 +50,18 @@ Google Fonts and Font Awesome 4.7.0.
 Make sure all the user stories have been met.  All the links have been manually
 tested to ensure that they are pointing to the correct destination.
 
+## Deployment
+
+This project is deployed on [GitHub Pages](https://derektypist.github.io/semantic-html5-spa) using the master branch.
+
+Remote set up at
+
+    git remote add origin https://github.com/derektypist/semantic-html5-spa
+    
+Any changes use the git push command.
+
+
+
 
 
 
