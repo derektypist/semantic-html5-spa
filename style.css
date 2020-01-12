@@ -51,3 +51,8 @@ hr {
     position: relative;
     top: 15px;
 }
+
+/* Table */
+th {
+    background-color: lightblue;
+}
