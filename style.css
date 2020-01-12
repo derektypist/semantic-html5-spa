@@ -22,6 +22,11 @@ hr {
     border-color: black;
 }
 
+/* Navigation */
+.nav-link:hover {
+    background-color: seagreen;
+}
+
 /* Home */
 
 #home {
