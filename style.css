@@ -80,3 +80,8 @@ hr {
 th {
     background-color: lightblue;
 }
+
+/* Holidays */
+.holiday-descriptions {
+    text-align: center;
+}
