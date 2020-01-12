@@ -23,7 +23,20 @@ hr {
 }
 
 /* Computing */
+
+.screenshots-article {
+    background-color: lightgreen;
+    padding: 10px;
+    text-align: center;
+}
+
 .screenshots {
     display: block;
     margin: auto;
+    max-width: 100%;
+}
+
+.screenshots-caption {
+    position: relative;
+    top: 15px;
 }
