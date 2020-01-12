@@ -33,6 +33,8 @@ the border to be orange.
 
 I also want a brief description of the image (e.g. Benidorm).
 
+As a user, I want to see a screentip (e.g. Cambridge Python User Group) when I hover over a link.
+
 ## Features
 
 Responsive Images in Computing and Holidays Section.
@@ -43,6 +45,10 @@ Responsive Table in Music Section.
 This project uses HTML5, CSS3 and Bootstrap 4.4.1.  Other technologies include
 Google Fonts and Font Awesome 4.7.0.
 
+## Testing
+
+Make sure all the user stories have been met.  All the links have been manually
+tested to ensure that they are pointing to the correct destination.
 
 
 
