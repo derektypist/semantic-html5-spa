@@ -24,6 +24,11 @@ hr {
 
 /* Computing */
 
+#computing-start {
+    padding: 80px;
+}
+
+
 .screenshots-article {
     background-color: lightgreen;
     padding: 10px;
