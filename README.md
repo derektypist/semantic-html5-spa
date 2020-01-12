@@ -15,9 +15,12 @@ It has a brief description of each section.
 
 In the computing section, there are 3 articles - skills, screenshots and links to professional associations.
 
+As a user, I want skills to be divided into Front End, Back End and Other Skills.
+
 As a user, I want the screenshot to be no larger than its original width.
 
 I want the links to professional organisations to be coloured green.  It changes to orange on hover.
+When I click on a link, the link opens in a new window without leaving the web page.
 
 In the music section, a table is provided.
 
@@ -29,6 +32,17 @@ As a user, I want a blue border on each image.  When hovering over the image, I 
 the border to be orange.
 
 I also want a brief description of the image (e.g. Benidorm).
+
+## Features
+
+Responsive Images in Computing and Holidays Section.
+Responsive Table in Music Section.
+
+## Technologies Used
+
+This project uses HTML5, CSS3 and Bootstrap 4.4.1.  Other technologies include
+Google Fonts and Font Awesome 4.7.0.
+
 
 
 
