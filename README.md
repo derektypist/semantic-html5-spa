@@ -1,7 +1,7 @@
 # Semantic HTML5 Single Page Application (SPA)
 
 Welcome to Semantic HTML5 Single Page Application (SPA).  The purpose of this project is to investigate semantic HTML5 in a single page.
-It uses the nav, header, section, article, figure, figcaption, aside and footer tags.
+It uses the nav, main, header, section, article, figure, figcaption, aside and footer tags.
 
 ## UX
 
